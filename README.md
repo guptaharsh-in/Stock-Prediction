@@ -24,4 +24,4 @@ Show Actual
 
 Result (Approx 50% accuracy)
 
-Conclusion (Can be helpful if we maintain 1:2 Risk Reward Ratio)
+Conclusion (We can deploy this Machine Learning Algo in real markets if we maintain more than 1:1 Risk Reward Ratio)
