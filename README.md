@@ -22,7 +22,11 @@ Show Predictions
 
 Show Actual
 
-Result (Approx 50% accuracy)
+# Result 
 
-Conclusion (We can deploy this Machine Learning Algo in real markets if we maintain more than 1:1 Risk Reward Ratio)
+Approx 50% accuracy
+
+# Conclusion
+
+We can deploy this Machine Learning Algo in real markets if we maintain more than 1:1 Risk Reward Ratio
 
